@@ -20,3 +20,6 @@ DQN is a more advanced method that uses a neural network to approximate the Q-va
 ## Results
 Both Q Learning (Learning rate: 0.65) and DQN are able to acheive a total reward of 500 for 100 episodes, while Q Learning (Learning rate: 0.01) was able to acheive a total reward of 495 for 100 episodes.
 
+## Acknowledgements
+- [OpenAI Gym library](https://www.gymlibrary.dev/environments/classic_control/cart_pole/)
+- ChatGPT: README.md file
