@@ -14,7 +14,7 @@ Q-learning is a model-free reinforcement learning algorithm that seeks to learn 
 - Q-learning (High Learning Rate: 0.65)
 The learning rate determines how quickly the agent updates its knowledge about the environment.
 
-## Deep Q-Network (DQN)
+### Deep Q-Network (DQN)
 DQN is a more advanced method that uses a neural network to approximate the Q-value function. It is particularly useful in environments with large state spaces. Our implementation includes experience replay and a target network to stabilize training.
 
 ## Results
