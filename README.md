@@ -18,5 +18,5 @@ The learning rate determines how quickly the agent updates its knowledge about t
 DQN is a more advanced method that uses a neural network to approximate the Q-value function. It is particularly useful in environments with large state spaces. Our implementation includes experience replay and a target network to stabilize training.
 
 ## Results
-Both Q Learning (Learning rate: 0.65) and DQN are able to acheive a total reward of 500, while Q Learning (Learning rate: 0.01) was able to acheive a total reward of 495.
+Both Q Learning (Learning rate: 0.65) and DQN are able to acheive a total reward of 500 for 100 episodes, while Q Learning (Learning rate: 0.01) was able to acheive a total reward of 495 for 100 episodes.
 
