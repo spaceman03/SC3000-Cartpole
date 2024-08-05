@@ -1,4 +1,4 @@
-# Cartpole Project
+# Cartpole Reinforcement Learning Project
 This repository contains the implementation of a classic reinforcement learning problem, Cartpole, using Q-learning and Deep Q-Networks (DQN). The Cartpole environment is a common benchmark problem where the objective is to balance a pole on a cart by applying forces to the cart.
 
 ## Introduction
