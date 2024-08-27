@@ -4,6 +4,13 @@ This repository contains the implementation of a classic reinforcement learning 
 ## Introduction
 In this project, we explore the Cartpole problem using two different Q-learning implementations with varying learning rates and a Deep Q-Network (DQN) approach. The goal is to compare the performance of these algorithms in terms of their ability to balance the pole over time.
 
+## :busts_in_silhouette: Our Team
+| Name | Parts Done | Github ID |
+|---|:---:|---|
+| Brandon Jang Jin Tian | Q-learning | @BrandonJang |
+| Chung Zhi Xuan | Q-learning | @spaceman03 |
+| Tee Qin Tong Bettina | Deep Q-Network | @BettinaTee03 |
+
 ## Environment
 The CartPole environment is a part of the [OpenAI Gym library](https://www.gymlibrary.dev/environments/classic_control/cart_pole/), which provides a standard interface for a wide variety of reinforcement learning tasks. The state space consists of four variables: cart position, cart velocity, pole angle, and pole velocity at tip. The agent's actions are to move the cart left or right. The environment provides a reward of +1 for every time step the pole remains upright.
 
